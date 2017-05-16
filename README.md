@@ -49,7 +49,7 @@ Function, we need to set up billing for the account.
 
 1. Go to the [Firebase console](https://console.firebase.google.com) and
    create a new project called `hubbub-dev`
-2. Setup billing. The easiset way is to upgrade to the pay-as-you-go Blaze plan,
+2. Setup billing. The easiest way is to upgrade to the pay-as-you-go Blaze plan,
    but you won't be charged unless your usage exceeds the [generous free tier](https://firebase.google.com/pricing/).
 2. Click "Add Firebase to your web app" and copy the projectId, which should
    look something like `hubbub-dev-1234`
